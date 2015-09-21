@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="lambda-star-red-flag.svg">
+   sodipodi:docname="lambda-star-red-flag.svg"
+   inkscape:export-filename="C:\Users\BearBear\Documents\GitHub\red-flag-of-fp\lambda-star-red-flag.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="925.11176"
+     inkscape:cx="497.9689"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -120,7 +123,7 @@
        xml:space="preserve"
        id="flowRoot3373"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(3.026523,0,0,3.026523,-75.843843,-133.11896)"><flowRegion
+       transform="matrix(3.026523,0,0,3.026523,-90.129557,-230.26182)"><flowRegion
          id="flowRegion3375"><rect
            id="rect3377"
            width="142.85716"
@@ -128,21 +131,21 @@
            x="80"
            y="71.428574" /></flowRegion><flowPara
          id="flowPara3379"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffff00">λ</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:180px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Medium';fill:#ffff00">λ</flowPara></flowRoot>    <path
        sodipodi:type="star"
        style="fill:#ffff00"
        id="path3385"
        sodipodi:sides="5"
-       sodipodi:cx="314.28573"
+       sodipodi:cx="314.28574"
        sodipodi:cy="469.505"
        sodipodi:r1="49.156143"
-       sodipodi:r2="24.578072"
+       sodipodi:r2="19.662457"
        sodipodi:arg1="0.95054684"
        sodipodi:arg2="1.5788654"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 342.85716,509.505 -28.76974,-15.42272 -29.01489,14.95645 5.77755,-32.12754 -23.19052,-22.973 32.34046,-4.43319 14.68235,-29.15454 14.20997,29.38768 32.26471,4.9545 -23.55822,22.59577 z"
+       d="m 342.85716,509.505 -28.73008,-20.33818 -29.05455,19.87191 10.46468,-33.60878 -27.87765,-21.49176 35.19761,-0.43318 11.8252,-33.15455 11.28865,33.34106 35.18603,1.00112 -28.22084,21.03909 z"
        inkscape:transform-center-x="-0.12256814"
        inkscape:transform-center-y="-4.5772721" />
   </g>
