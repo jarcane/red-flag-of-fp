@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="lambda-star-red-flag-lisp.svg"
+   sodipodi:docname="lambda-star-red-flag-lisp-centered.svg"
    inkscape:export-filename="C:\Users\BearBear\Documents\GitHub\red-flag-of-fp\lambda-star-red-flag-lisp.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="584.28574"
+     inkscape:cx="1011.4286"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -123,7 +123,7 @@
        xml:space="preserve"
        id="flowRoot3373"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.0783048,0,0,2.0783048,-34.160708,-153.68489)"><flowRegion
+       transform="matrix(3.026523,0,0,3.026523,329.87044,-81.690391)"><flowRegion
          id="flowRegion3375"><rect
            id="rect3377"
            width="379.80988"
@@ -137,18 +137,18 @@
        style="fill:#ffff00"
        id="path3385"
        sodipodi:sides="5"
-       sodipodi:cx="380.88959"
-       sodipodi:cy="342.53894"
-       sodipodi:r1="33.755383"
-       sodipodi:r2="13.502153"
+       sodipodi:cx="934.28574"
+       sodipodi:cy="640.93358"
+       sodipodi:r1="49.156143"
+       sodipodi:r2="19.662457"
        sodipodi:arg1="0.95054684"
        sodipodi:arg2="1.5788654"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 400.5095,370.00683 -19.72886,-13.96618 -19.95168,13.64598 7.18607,-23.07905 -19.14351,-14.75833 24.1701,-0.29746 8.12034,-22.76713 7.75188,22.8952 24.16215,0.68747 -19.37918,14.44749 z"
-       inkscape:transform-center-x="-0.08416466"
-       inkscape:transform-center-y="-3.1432114" />
+       d="m 962.85719,680.93359 -28.73008,-20.33818 -29.05455,19.87191 10.46468,-33.60878 -27.87765,-21.49176 35.19761,-0.43319 11.82521,-33.15454 11.28864,33.34106 35.18603,1.00112 -28.22084,21.03909 z"
+       inkscape:transform-center-x="-0.12256814"
+       inkscape:transform-center-y="-4.5772721" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3351"
