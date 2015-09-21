@@ -1,9 +1,19 @@
 # red-flag-of-fp
 The Red Flag of Functional Programming
 
-## Description
+<img src="https://raw.githubusercontent.com/jarcane/red-flag-of-fp/master/lambda-star-red-flag.png" width="600">
+
+## Rationale
 
 A lot of talk has grown in the programming scene about 'keeping politics out of code' so I decided instead to create a banner for those who feel rather more otherwise. 
+
+I believe in a programming community that is aware and conscious of its place within the greater society, and acts with conscience and considerations of the consequences of its actions, rather than one that hides in an imaginary "apolitical" space oblivious to the effects its creations wreak upon civilization.
+
+I also believe in the ideals of equality of opportunity, regardless of race, gender, sexual orientation, or economic class, and that the needs of all members of society should be met, rather than only those of a wealthy and privileged elite and those who can claw their way into its good graces.
+
+And finally, of course, I believe in the infinite value and expressive power of functional programming.
+
+If you, too, believe these things, then this flag is for you.
 
 ## License
 
