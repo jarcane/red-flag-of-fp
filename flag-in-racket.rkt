@@ -7,11 +7,11 @@
 (define ground (rectangle width height "solid" (color 212 0 0)))
 (define star-image (star 10 "solid" "yellow"))
 
- (define text-image
-   (text/font "(λ)" 84 "yellow" "menlo" 'swiss 'normal 'normal #f) )
+(define text-image
+  (text/font "(λ)" 84 "yellow" "menlo" 'swiss 'normal 'normal #f) )
 
- (define emblem-image  (overlay/align/offset "middle" "bottom" star-image 0 20 text-image ))
-(define flag (overlay/align/offset "left" "top" emblem-image 0 0 ground  ))
+(define emblem-image  (overlay/align/offset "middle" "bottom" star-image 0 20 text-image ))
+(define flag (overlay/align/offset "left" "top" emblem-image -20 -20 ground  ))
 
 ; (save-svg-image image filename [width height]);
 
