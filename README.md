@@ -21,6 +21,9 @@ The ratios of the flag has been chosen as 16:9, which is unusual for a flag, but
 
 As such, the provided PNG files are in 1920x1080 resolution for this purpose.
 
+Stickers are available, at cost, from RedBubble: https://www.redbubble.com/people/annarcana/shop?asc=u
+The author retains no profit from sale.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">The Red Flag of Functional Programming</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jarcane/red-flag-of-fp/" property="cc:attributionName" rel="cc:attributionURL">A.C. Danvers</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
